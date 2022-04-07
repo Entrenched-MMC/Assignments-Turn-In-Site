@@ -21,7 +21,7 @@ html {
   margin-left: 200px;
   padding: 3px;
   border-style: solid;
-  border-width: 2px 2px;
+  border-width: 1px 1px;
   border-color: #262626;
   background-color: #1e6696;
 }
@@ -30,7 +30,7 @@ html {
   float: left;
   width: 200px;
   border-style: solid;
-  border-width: 2px 2px;
+  border-width: 1px 1px;
   border-color: #262626;
   background-color: #1e6696;
   padding: 3px;
