@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(180deg, #314063, #4b68ad, #1c3161)
+}
+
+.header {
+  border-style: solid;
+  boarder-width: 2px 2px;
+  border-color: #262626;
+  background-color: #3a4663;
+}
